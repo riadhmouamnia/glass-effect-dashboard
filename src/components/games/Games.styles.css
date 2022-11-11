@@ -1,0 +1,19 @@
+.games{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 4rem;
+}
+
+.games h1 {
+    color: #426696;
+    font-weight: 600;
+    font-size: 2.5rem;
+    opacity: 0.8;
+    margin-bottom: 0.5rem;
+}
+
+.status{
+    margin-bottom: 0.5rem;
+}

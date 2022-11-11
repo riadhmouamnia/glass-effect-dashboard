@@ -1,0 +1,16 @@
+.user img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.user h3 {
+  color: #426696;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+.user p {
+    color: #426696;
+    opacity: 0.8;
+}

@@ -1,0 +1,37 @@
+.pro{
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    padding: 1rem 1rem;
+    border-radius: 1rem;
+    width: 75%;
+    text-align: left;
+    color: white;
+    position: relative;
+    cursor: pointer;
+}
+
+.pro:hover{
+    background: linear-gradient(to right top, rgba(79, 174, 157, 0.8), #55afbd89);
+}
+
+.pro img {
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    top: -10%;
+    right: -15%;
+}
+.pro img:hover{
+    transition: transform .3s ease;
+    transform: scale(1.05) rotate(3deg);
+
+}
+
+.pro h2{
+    color: white;
+    font-weight: bolder;
+    width: 75%;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+

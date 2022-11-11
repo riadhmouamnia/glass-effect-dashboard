@@ -1,0 +1,26 @@
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+.link{
+    display: flex;
+    margin: 1rem 0rem;
+    align-items: center;
+    cursor: pointer;
+}
+
+.link img {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.link h2 {
+    padding: 0rem 1rem;
+    font-size: medium;
+    color: #658ec6;
+    opacity: 0.8;
+}
+
+.link h2:hover {
+    color: #658dc69f;
+}

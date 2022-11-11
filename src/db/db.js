@@ -5,7 +5,7 @@ export const games = [
     version: "PS5 Version",
     percentage: "65%",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/assassins.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/assassins.png",
   },
   {
     id: 1,
@@ -13,7 +13,7 @@ export const games = [
     version: "PS5 Version",
     percentage: "20%",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/sackboy.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/sackboy.png",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const games = [
     version: "PS5 Version",
     percentage: "90%",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/spiderman.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/spiderman.png",
   },
 ];
 
@@ -40,30 +40,30 @@ export const links = [
     id: 0,
     title: "Streams",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/twitch.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/twitch.png",
   },
   {
     id: 1,
     title: "Games",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/steam.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/steam.png",
   },
   {
     id: 2,
     title: "New",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/upcoming.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/upcoming.png",
   },
   {
     id: 3,
     title: "Library",
     imgUrl:
-      "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/library.png",
+      "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/library.png",
   },
 ];
 
 export const proGames = {
   title: "Join pro for free games.",
   imgUrl:
-    "https://raw.githubusercontent.com/developedbyed/glass-website/master/images/controller.png",
+    "https://raw.githubusercontent.com/riadhmouamnia/glass-effect-dashboard/master/src/assets/controller.png",
 };

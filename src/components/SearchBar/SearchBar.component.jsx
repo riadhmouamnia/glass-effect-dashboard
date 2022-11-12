@@ -1,9 +1,9 @@
 import "./SearchBar.styles.css";
 
-const Searchbar = () => {
+const Searchbar = ({ handleQuery }) => {
   return (
     <div className="Search">
-      <input type="text" name="Search" id="Search" placeholder="Search" />
+      <input type="search" placeholder="Search" onChange={handleQuery} />
     </div>
   );
 };
